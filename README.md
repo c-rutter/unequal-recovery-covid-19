@@ -1,2 +1,11 @@
-# unequal-recovery-covid-19
-Repository for the "Unequal Recovery in 
+# Unequal Recovery from COVID-19 
+Code repository for the Unequal\
+
+
+*Authors*: Pedro Nascimento de Lima, 
+
+
+Abstract:
+
+Instructions:
+
