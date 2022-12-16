@@ -1,5 +1,14 @@
 
 
+#------------------------------------------------------------------------------#
+# Unequal Recovery in Colorectal Cancer Screening code repository
+# Author: Pedro Nascimento de Lima
+# Copyright (C) 2022
+# See README.md for information on usage and licensing
+#------------------------------------------------------------------------------#
+
+# Function to plot results
+
 gg_dot_plot_LY_lost <- function(wide_results_data, colors) {
   
   plot_data <-  wide_results_data %>%
@@ -14,8 +23,6 @@ gg_dot_plot_LY_lost <- function(wide_results_data, colors) {
   
   plot_data <- plot_data %>%
     mutate(scenario = fct_reorder(scenario, plot_order))
-  
-  # Padd
   
   plot_data %>%
     ggplot() +
