@@ -16,6 +16,9 @@ library(janitor)
 library(forcats)
 library(writexl)
 
+# for renv:
+library(jsonlite)
+
 # source necessary functions:
 invisible(sapply(X = paste0(list.files(path = "./R/funs/", pattern = "*.R",full.names = T)),FUN = source, echo = F)) 
 
