@@ -18,6 +18,8 @@ library(writexl)
 
 # for renv:
 library(jsonlite)
+library(curl)
+library(renv)
 
 # source necessary functions:
 invisible(sapply(X = paste0(list.files(path = "./R/funs/", pattern = "*.R",full.names = T)),FUN = source, echo = F)) 

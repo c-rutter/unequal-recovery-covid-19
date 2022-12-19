@@ -67,6 +67,14 @@
       "Hash": "fa53ce256cd280f468c080a58ea5ba8c",
       "Requirements": []
     },
+    "curl": {
+      "Package": "curl",
+      "Version": "4.3.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "0eb86baa62f06e8855258fa5a8048667",
+      "Requirements": []
+    },
     "dplyr": {
       "Package": "dplyr",
       "Version": "1.0.10",
