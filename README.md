@@ -1,8 +1,8 @@
-# Unequal Recovery in Colorectal Cancer Screening Following the COVID-19 Pandemic 
+# Projected long-term effects of colorectal cancer screening disruptions following the COVID-19 pandemic
 
-This repository contains code used in the *Unequal Recovery in Colorectal Cancer Screening* paper.
+This repository contains code for the paper *Nascimento de Lima et al, Projected long-term effects of colorectal cancer screening disruptions following the COVID-19 pandemic, eLife [https://doi.org/10.7554/eLife.85264](https://doi.org/10.7554/eLife.85264)*
 
-All figures and tables from our analysis can be reproduced from summary output files using publicly available data and free software. The models underlying the analysis (CRCSPIN and MISCAN) are not made publicly available per current CISNET policy.  
+All figures and tables from our analysis can be reproduced from summary output files using publicly available data and free software. The models underlying the analysis (CRC-SPIN and MISCAN) are not made publicly available per current CISNET policy.  
 
 ### Dependencies
 
